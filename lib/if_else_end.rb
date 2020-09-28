@@ -1,7 +1,7 @@
 # Write your solution here
 if Time.now even?
   puts "Even!"
-else 
+else
   puts "Odd!"
-  
+
 end
